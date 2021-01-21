@@ -12,6 +12,7 @@ What to do in  Exploratory Data Analysis:¶
 7.Write all your inferences with supporting Analysis and Visualizations.
 
 Dataset :
+
 gender                                     : Gender of the student
 race/ethnicity                         : Race of the Student As Group A/B/C
 parental level of education  : What is the education Qualification of Students Parent
